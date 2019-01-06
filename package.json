@@ -1,0 +1,19 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simon_says.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitmakerlabs/reinforcement_tdd_simon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitmakerlabs/reinforcement_tdd_simon/issues"
+  },
+  "homepage": "https://github.com/bitmakerlabs/reinforcement_tdd_simon#readme"
+}
