@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bitmakerlabs/reinforcement_tdd_simon/issues"
   },
-  "homepage": "https://github.com/bitmakerlabs/reinforcement_tdd_simon#readme"
+  "homepage": "https://github.com/bitmakerlabs/reinforcement_tdd_simon#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
 }
